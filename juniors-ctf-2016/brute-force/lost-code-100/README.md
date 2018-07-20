@@ -1,9 +1,4 @@
-# Juniors CTF 2016 : lost-code-100
-
-**Category:** Crypto
-**Points:** 100
-**Solves:**
-**Description:**
+# CTF: lost-code
 
 > ![Description Image](lost-code-desc-0.jpg)
 >
